@@ -11,7 +11,7 @@ My name is Kerem Varış. I live in Turkey.
 
 ## Job
 
-I'm working as a Senior Software Developer in [Hemosoft](http://hemosoft.com.tr)
+I'm working as a Senior Software Developer at [Hemosoft](http://hemosoft.com.tr)
 
 ## I'm currently working on 🔭
 
