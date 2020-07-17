@@ -19,6 +19,10 @@ SennedjemFw(https://github.com/keremvaris/Sennedjem)
 <code><a href="https://www.postgresql.org" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></a></code>
 <code><a href="https://microservices.io/" target="_blank"><img height="50" src="https://comunytek.com/wp-content/uploads/2017/03/Microservices.png"></a></code>
 <code><a href="https://www.elastic.co" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></a></code>
+<code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code>
+
+
 
 ## Contact Me 📫
 
