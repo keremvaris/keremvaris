@@ -38,7 +38,8 @@ You can find and get touch with me on these accounts!
 
 I'd like to get in touch with the following topics
 
-- Designing
+  - Design Patterns
+  - CQRS & BDD
   - Resilient Systems
   - Fault Tolerant Systems
   - High Performant Backends
