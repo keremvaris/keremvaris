@@ -37,6 +37,6 @@ I'd like to get in touch with the following topics
 
   - Design Patterns
   - CQRS & BDD
-  - Clean Code
+  - Clean Architecture
   
   ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fkeremvaris.keremvaris%2Freadme)
