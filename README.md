@@ -7,7 +7,7 @@ My name is Kerem Varış. I live in Turkey.
 
 ## Job
 
-I'm working as a Senior Software Developer at [SolidTeam](https://wwwdevarchitecture.net)
+I'm working as a Co-Founder & CTO at [SolidTeam](https://wwwdevarchitecture.net)
 
 ## I'm currently working on 🔭
 
