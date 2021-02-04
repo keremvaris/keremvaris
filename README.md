@@ -7,11 +7,12 @@ My name is Kerem Varış. I live in Turkey.
 
 ## Job
 
-I'm working as a Senior Software Developer at [Hemosoft](http://hemosoft.com.tr)
+I'm working as a Senior Software Developer at [SolidTeam](https://wwwdevarchitecture.net)
 
 ## I'm currently working on 🔭
 
-SennedjemFw(https://github.com/keremvaris/Sennedjem)
+SennedjemFw(https://github.com/keremvaris/Sennedjem) & 
+SennedjemFw(https://github.com/DevArchitecture/DevArchitecture)
 
 ## Know / Using 🧠
 
