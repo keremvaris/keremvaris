@@ -12,7 +12,7 @@ I'm working as a Co-Founder & CTO at [SolidTeam](https://wwwdevarchitecture.net)
 ## I'm currently working on 🔭
 
 SennedjemFw(https://github.com/keremvaris/Sennedjem) & 
-SennedjemFw(https://github.com/DevArchitecture/DevArchitecture)
+DevArchitecture(https://github.com/DevArchitecture/DevArchitecture)
 
 ## Know / Using 🧠
 
