@@ -7,12 +7,16 @@ My name is Kerem Varış. I live in Turkey.
 
 ## Job
 
-I'm working as a Co-Founder & CTO at [SolidTeam](https://www.devarchitecture.net)
+I'm working as a CTO at [Carbonance](https://www.carbonance.com)
 
 ## I'm currently working on 🔭
 
 SennedjemFw(https://github.com/keremvaris/Sennedjem) & 
 DevArchitecture(https://github.com/DevArchitecture/DevArchitecture)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=keremvaris&theme=onedark)](https://github.com/keremvarisgithub-profile-trophy)
 
 ## Know / Using 🧠
 
